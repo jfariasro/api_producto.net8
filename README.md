@@ -9,5 +9,5 @@
   - El consumo se realiza con Blazor.
   - También se usa .Net 8.
   - El consumo lo manejamos de forma local.
-3. Repositorio donde se consume la API: 
+3. Repositorio donde se consume la API: https://github.com/jfariasro/consumir_api_blazor.git
 4. Para información adiciona, escribe al siguiente correo: josefariasromero@hotmail.com
